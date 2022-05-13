@@ -16,5 +16,6 @@ AmmuNationDB
 │   README.md
 │
 └───doc
-    └───db_concept_v1.pdf
-```
+    │   db_concept_v1.pdf
+    │   db_concept_v2.pdf
+``` 
