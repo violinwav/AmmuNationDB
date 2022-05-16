@@ -15,7 +15,12 @@ The Repository includes all the SQL-Scripts, Documentation and other content rel
 AmmuNationDB
 │   README.md
 │
-└───doc
-    │   db_concept_v1.pdf
-    │   db_concept_v2.pdf
+├───doc
+│   │   db_concept_v1.pdf
+│   │   db_concept_v2.pdf
+│   │
+│
+└───sql
+    │   ammunationdb_initialize.sql
+    │
 ``` 
