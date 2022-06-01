@@ -22,5 +22,6 @@ AmmuNationDB
 │
 └───sql
     │   ammunationdb_initialize.sql
+    │   ammunationdb_test-data.sql
     │
 ``` 

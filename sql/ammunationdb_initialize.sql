@@ -33,6 +33,9 @@ CREATE TABLE Weapon
    ,AmmoTypeId              UNIQUEIDENTIFIER    NOT NULL
    ,WeaponCategoryId        UNIQUEIDENTIFIER    NOT NULL
    ,Designation             NVARCHAR(50)        NOT NULL
+   ,WeightInKilogram        INTEGER             NOT NULL
+   ,Origin                  NVARCHAR(50)        NOT NULL
+   ,DateOfManufacture       DATE                NULL
 )
 
 CREATE TABLE AttachmentType
