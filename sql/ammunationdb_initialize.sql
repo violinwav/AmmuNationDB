@@ -25,6 +25,7 @@ CREATE TABLE AmmoType
 (
     Id                      INT IDENTITY(1, 1)  NOT NULL    CONSTRAINT  PK_AmmoType             PRIMARY KEY
    ,Designation             NVARCHAR(50)        NOT NULL
+   ,LengthInMilliMetre      INT                 NULL             
 )
 
 CREATE TABLE Weapon
