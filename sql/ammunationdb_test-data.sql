@@ -53,17 +53,17 @@ VALUES  (1,          'CoD4')
        ,(1,          'MWR')
        ,(2,          'Iron Sight')
        ,(2,          'Reflex Sight')
-       ,(2,          'Holo') --5
+       ,(2,          'Holo') 
        ,(2,          'Red Dot Sight')
        ,(2,          'ACOG')
        ,(2,          'Infrared Scope')
        ,(2,          'Sniper Scope')
-       ,(3,          'Lazer Sight') --10
+       ,(3,          'Lazer Sight') 
        ,(4,          'Vertical Grip')
        ,(4,          'Angled Grip')
        ,(5,          'Extended Mag')
        ,(5,          'Box Magazine')
-       ,(5,          'PPS Round Drum') --15
+       ,(5,          'PPS Round Drum')
        ,(5,          'Thompsons Round Drum')
 
 INSERT INTO WeaponPerAttachment
